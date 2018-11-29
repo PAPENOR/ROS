@@ -41,7 +41,7 @@ CMAKE_AR:FILEPATH=/usr/bin/ar
 
 //Choose the type of build, options are: None(CMAKE_CXX_FLAGS or
 // CMAKE_C_FLAGS used) Debug Release RelWithDebInfo MinSizeRel.
-CMAKE_BUILD_TYPE:STRING=
+CMAKE_BUILD_TYPE:STRING=Debug
 
 //The CodeBlocks executable
 CMAKE_CODEBLOCKS_EXECUTABLE:FILEPATH=CMAKE_CODEBLOCKS_EXECUTABLE-NOTFOUND
@@ -269,6 +269,12 @@ _gtest_SOURCES:FILEPATH=/usr/src/gtest/src/gtest.cc
 catkin_DIR:PATH=/opt/ros/kinetic/share/catkin/cmake
 
 //Value Computed by CMake
+example_hallow_BINARY_DIR:STATIC=/home/pan606/ROS/build/example_hallow
+
+//Value Computed by CMake
+example_hallow_SOURCE_DIR:STATIC=/home/pan606/ROS/src/example_hallow
+
+//Value Computed by CMake
 gmock_BINARY_DIR:STATIC=/home/pan606/ROS/build/gtest
 
 //Dependencies for the target
@@ -418,7 +424,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=3
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=4
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

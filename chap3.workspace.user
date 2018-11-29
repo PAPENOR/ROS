@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.4.1, 2018-11-29T16:35:20. -->
+<!-- Written by QtCreator 4.4.1, 2018-11-29T17:49:59. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -103,9 +103,9 @@
     <value type="bool" key="ProjectExplorer.BuildConfiguration.ClearSystemEnvironment">false</value>
     <valuelist type="QVariantList" key="ProjectExplorer.BuildConfiguration.UserEnvironmentChanges">
      <value type="QString">CMAKE_PREFIX_PATH=/home/pan606/ROS/devel:/opt/ros/kinetic</value>
-     <value type="QString">LD_LIBRARY_PATH=/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu</value>
+     <value type="QString">LD_LIBRARY_PATH=/home/pan606/ROS/devel/lib:/opt/ros/kinetic/lib:/opt/ros/kinetic/lib/x86_64-linux-gnu</value>
      <value type="QString">PATH=/opt/ros/kinetic/bin:/home/pan606/bin:/home/pan606/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin</value>
-     <value type="QString">PKG_CONFIG_PATH=/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig</value>
+     <value type="QString">PKG_CONFIG_PATH=/home/pan606/ROS/devel/lib/pkgconfig:/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig</value>
      <value type="QString">PWD=/home/pan606/ROS</value>
      <value type="QString">PYTHONPATH=/opt/ros/kinetic/lib/python2.7/dist-packages</value>
      <value type="QString">QTDIR</value>

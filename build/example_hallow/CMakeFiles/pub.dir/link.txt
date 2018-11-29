@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/pub.dir/src/pub.cpp.o  -o /home/pan606/ROS/devel/lib/example_hallow/pub -rdynamic 

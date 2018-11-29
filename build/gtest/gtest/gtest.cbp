@@ -5,7 +5,7 @@
       <Option title="gtest" />
       <Option makefile_is_custom="1" />
       <Option compiler="gcc" />
-      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\opt\;CMake Files\..\..\..\..\opt\ros\;CMake Files\..\..\..\..\opt\ros\kinetic\;CMake Files\..\..\..\..\opt\ros\kinetic\share\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\platform\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\test\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\tools\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\templates\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\em\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\src\;CMake Files\..\..\..\..\usr\src\gmock\;CMake Files\..\..\..\..\usr\src\gtest\;CMake Files\..\..\..\..\usr\src\gtest\cmake\;CMake Files\..\build\;CMake Files\..\build\catkin\;CMake Files\..\build\catkin\catkin_generated\;CMake Files\..\build\catkin\catkin_generated\version\;CMake Files\..\build\catkin_generated\;CMake Files\..\build\catkin_generated\installspace\;" />
+      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\opt\;CMake Files\..\..\..\..\opt\ros\;CMake Files\..\..\..\..\opt\ros\kinetic\;CMake Files\..\..\..\..\opt\ros\kinetic\share\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\platform\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\test\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\tools\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\templates\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\em\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\src\;CMake Files\..\..\..\..\usr\src\gmock\;CMake Files\..\..\..\..\usr\src\gtest\;CMake Files\..\..\..\..\usr\src\gtest\cmake\;CMake Files\..\build\;CMake Files\..\build\catkin\;CMake Files\..\build\catkin\catkin_generated\;CMake Files\..\build\catkin\catkin_generated\version\;CMake Files\..\build\catkin_generated\;CMake Files\..\build\catkin_generated\installspace\;CMake Files\..\build\example_hallow\;CMake Files\..\build\example_hallow\catkin_generated\;CMake Files\example_hallow\;" />
       <Build>
       <Target title="all">
          <Option working_dir="/home/pan606/ROS/build/gtest/gtest" />
@@ -227,6 +227,18 @@
       <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/interrogate_setup_dot_py.py">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\" />
       </Unit>
+      <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/catkinConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/catkinConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/catkinConfig-version.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/catkinConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\" />
+      </Unit>
       <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/platform/lsb.cmake">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\platform\" />
       </Unit>
@@ -302,7 +314,55 @@
       <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/templates/order_packages.context.py.in">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\templates\" />
       </Unit>
+      <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/templates/pkg.context.pc.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\templates\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/templates/pkgConfig.cmake.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\templates\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/templates/pkgConfig-version.cmake.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\templates\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/templates/pkg.context.pc.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\templates\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/templates/pkgConfig.cmake.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\templates\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/templates/pkgConfig-version.cmake.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\templates\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/templates/pkg.context.pc.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\templates\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/templates/pkgConfig.cmake.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\templates\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/templates/pkgConfig-version.cmake.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\templates\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/templates/pkg.context.pc.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\templates\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/templates/pkgConfig.cmake.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\templates\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/templates/pkgConfig-version.cmake.in">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\templates\" />
+      </Unit>
       <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/em/order_packages.cmake.em">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\em\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/em/pkg.pc.em">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\em\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/em/pkg.pc.em">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\em\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/em/pkg.pc.em">
+          <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\em\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/../../../../opt/ros/kinetic/share/catkin/cmake/em/pkg.pc.em">
           <Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\em\" />
       </Unit>
       <Unit filename="/home/pan606/ROS/src/../../../../usr/src/gmock/CMakeLists.txt">
@@ -337,6 +397,24 @@
       </Unit>
       <Unit filename="/home/pan606/ROS/src/../build/catkin_generated/installspace/_setup_util.py">
           <Option virtualFolder="CMake Files\..\build\catkin_generated\installspace\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/../build/example_hallow/catkin_generated/package.cmake">
+          <Option virtualFolder="CMake Files\..\build\example_hallow\catkin_generated\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/../build/example_hallow/catkin_generated/package.cmake">
+          <Option virtualFolder="CMake Files\..\build\example_hallow\catkin_generated\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/example_hallow/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\example_hallow\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/example_hallow/package.xml">
+          <Option virtualFolder="CMake Files\example_hallow\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/example_hallow/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\example_hallow\" />
+      </Unit>
+      <Unit filename="/home/pan606/ROS/src/example_hallow/package.xml">
+          <Option virtualFolder="CMake Files\example_hallow\" />
       </Unit>
    </Project>
 </CodeBlocks_project_file>
