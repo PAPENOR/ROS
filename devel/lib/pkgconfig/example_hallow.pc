@@ -1,0 +1,8 @@
+prefix=/home/pan606/ROS/devel
+
+Name: example_hallow
+Description: Description of example_hallow
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/pan606/ROS/devel/lib 
+Requires: 
