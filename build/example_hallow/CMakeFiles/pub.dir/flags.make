@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_FLAGS = -g  
 
-CXX_DEFINES = -DROS_BUILD_SHARED_LIBS=1
+CXX_DEFINES = -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\"example_hallow\"
 
-CXX_INCLUDES = -I/home/pan606/ROS/src/example_hallow/include 
+CXX_INCLUDES = -I/home/pan606/ROS/src/example_hallow/include -I/opt/ros/kinetic/include -I/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp 
 
